@@ -518,7 +518,7 @@ a.post-entry:hover {
     text-align:center;
     margin:0;
     color:#fff;
-    font-size:65px;
+    font-size:36px;
     line-height:1;
     letter-spacing:-3px;
 }
@@ -874,11 +874,11 @@ html[xmlns] .slides {
 }
 
 .flexslider li h1 {
-    color:rgba(255,255,255,0.64);
-    font-size:60px;
-    line-height:1;
-    letter-spacing:-3px;
-    font-weight:300;
+    color: rgba(255,255,255,0.64);
+    font-size: 144px;
+    line-height: 1;
+    letter-spacing: -3px;
+    font-weight: bold;
 }
 
 /*Home Icons, Featues Icons*/

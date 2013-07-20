@@ -40,7 +40,7 @@ namespace NemesisGroup.Controllers
             
             // make sure that the password is missing when you check in changes to the Git repo.
             // TODO: Add password
-            string password = "";
+            string password = "AC@beta2k";
             
             client.Credentials = new NetworkCredential("contact@nemesisgroupllc.com", password);
             client.EnableSsl = false;
