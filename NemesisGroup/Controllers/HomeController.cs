@@ -25,6 +25,11 @@ namespace NemesisGroup.Controllers
             return View();
         }
 
+        public ActionResult Bio()
+        {
+            return View();
+        }
+
         public ActionResult Contact(EmailForm form)
         {
             MailMessage message = new MailMessage();
