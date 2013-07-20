@@ -25,7 +25,7 @@ namespace NemesisGroup.Controllers
             return View();
         }
 
-        public ActionResult Bio()
+        public ActionResult Team()
         {
             return View();
         }
